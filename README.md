@@ -18,3 +18,9 @@ Here you can encounter the list of software that I use daily, and another custom
 - [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [feh](https://github.com/derf/feh) - Fast image viewer and wallpaper setter
 
+## ScreenShots
+
+![Screenshot](/screenshots/1.png)
+![Screenshot](/screenshots/2.png)
+![Screenshot](/screenshots/3.png)
+
