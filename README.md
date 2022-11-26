@@ -8,7 +8,7 @@ Here you can encounter the list of software that I use daily, and another custom
 
 ## Essential Software
 
-- [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (for polybar theme I help this repository https://github.com/raven2cz/polybar-config)
 - [rofi](https://github.com/davatorium/rofi) - Window switcher, application launcher and dmenu replacement
 - [zsh](https://github.com/zsh-users/zsh) - extended bourne shell with a large number of improvements
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
